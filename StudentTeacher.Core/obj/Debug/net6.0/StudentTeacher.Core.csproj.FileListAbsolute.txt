@@ -1,0 +1,14 @@
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Core\bin\Debug\net6.0\StudentTeacher.Core.deps.json
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Core\bin\Debug\net6.0\StudentTeacher.Core.runtimeconfig.json
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Core\bin\Debug\net6.0\StudentTeacher.Core.dll
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Core\bin\Debug\net6.0\StudentTeacher.Core.pdb
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Core\obj\Debug\net6.0\StudentTeacher.Core.csproj.AssemblyReference.cache
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Core\obj\Debug\net6.0\StudentTeacher.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Core\obj\Debug\net6.0\StudentTeacher.Core.AssemblyInfoInputs.cache
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Core\obj\Debug\net6.0\StudentTeacher.Core.AssemblyInfo.cs
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Core\obj\Debug\net6.0\StudentTeacher.Core.csproj.CoreCompileInputs.cache
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Core\obj\Debug\net6.0\StudentTeacher.Core.dll
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Core\obj\Debug\net6.0\refint\StudentTeacher.Core.dll
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Core\obj\Debug\net6.0\StudentTeacher.Core.pdb
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Core\obj\Debug\net6.0\StudentTeacher.Core.genruntimeconfig.cache
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Core\obj\Debug\net6.0\ref\StudentTeacher.Core.dll

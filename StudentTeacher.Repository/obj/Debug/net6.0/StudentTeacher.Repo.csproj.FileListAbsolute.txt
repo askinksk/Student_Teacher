@@ -1,0 +1,17 @@
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Repository\bin\Debug\net6.0\StudentTeacher.Repo.deps.json
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Repository\bin\Debug\net6.0\StudentTeacher.Repo.runtimeconfig.json
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Repository\bin\Debug\net6.0\StudentTeacher.Repo.dll
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Repository\bin\Debug\net6.0\StudentTeacher.Repo.pdb
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Repository\bin\Debug\net6.0\StudentTeacher.Core.dll
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Repository\bin\Debug\net6.0\StudentTeacher.Core.pdb
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Repository\obj\Debug\net6.0\StudentTeacher.Repo.csproj.AssemblyReference.cache
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Repository\obj\Debug\net6.0\StudentTeacher.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Repository\obj\Debug\net6.0\StudentTeacher.Repo.AssemblyInfoInputs.cache
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Repository\obj\Debug\net6.0\StudentTeacher.Repo.AssemblyInfo.cs
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Repository\obj\Debug\net6.0\StudentTeacher.Repo.csproj.CoreCompileInputs.cache
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Repository\obj\Debug\net6.0\StudentTeacher.Repo.csproj.CopyComplete
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Repository\obj\Debug\net6.0\StudentTeacher.Repo.dll
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Repository\obj\Debug\net6.0\refint\StudentTeacher.Repo.dll
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Repository\obj\Debug\net6.0\StudentTeacher.Repo.pdb
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Repository\obj\Debug\net6.0\StudentTeacher.Repo.genruntimeconfig.cache
+C:\Users\askin.kesik\Desktop\DDD Pattern\StudentTeacher\StudentTeacher.Repository\obj\Debug\net6.0\ref\StudentTeacher.Repo.dll
